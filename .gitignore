@@ -1,0 +1,10 @@
+# Local secrets / environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# macOS / editor noise
+.DS_Store
+.vscode/
